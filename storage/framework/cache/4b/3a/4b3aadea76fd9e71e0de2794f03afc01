@@ -1,0 +1,134 @@
+1475075080a:1:{s:22:"investor-relations.htm";a:9:{s:8:"fileName";s:22:"investor-relations.htm";s:7:"content";s:3101:"title = "investor-relations"
+url = "/investor-relations"
+layout = "default"
+is_hidden = 0
+==
+<div class="row">
+					<figure class="col-xs-12" role="banner">
+						<div>
+						<img class="img-responsive" src="images/hero-ir-image.jpg" alt="Hero image">
+						<div class="border_bottom"></div>
+						</div>
+					</figure>
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">Home</a></li>
+						</ol>
+						<section class="two-col clearfix">
+							<h2><em class="red">Investor</em> Relations</h2>
+							<article>
+								<p>The Company strives to grow and enhance its business relationship with its franchisors, joint-venture partners, shareholders, landlords, suppliers, third-party service providers, as well as the various regulators with which it interacts regularly.</p>
+								<p>As such, the Company seeks to not only comply with all guidelines, policies, agreements, bylaws, and laws governing its operations, but also to develop an enriched business association with its various stakeholders through the fostering of mutual trust and respect.</p>
+							</article>
+						</section>
+						<hr>
+						<section id="ir_pages">
+							<article>
+								<h4>Stock Information</h4>
+								<time>Updated 10.10.2016 2:09 PM</time>
+								<section class="row">
+									<div class="col-sm-4">
+										<iframe src="http://www.settrade.com/banner/banner3.jsp" marginwidth="0" marginleft="0" height="210" width="200" scrolling=no frameborder=no></iframe>
+									</div>
+									<div id="stock_info" class="col-sm-8">
+										<dl class="col-xs-6 col-sm-4">
+											<dt>Last Price</dt>
+											<dd class="price">43.60</dd>
+										</dl>
+										<dl class="col-xs-6 col-sm-4">
+											<dt>Change</dt>
+											<dd>+0.06</dd>
+										</dl>
+										<dl class="col-xs-6 col-sm-4">
+											<dt>% Change</dt>
+											<dd>(+1.69%)</dd>
+										</dl>
+										<dl class="col-xs-6 col-sm-4">
+											<dt>Volume</dt>
+											<dd>5,928,600</dd>
+										</dl>
+									</div>
+								</section>
+							</article>
+							<article>
+								<h4><a href="stock-news.php" title="Stock News">Stock News <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="annual-report.php" title="Annual Report">Annual Report <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="financial-statement.php" title="Financial Statement">Financial Statement <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="form-56.php" title="Form 56-1">Form 56-1 <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="md-a.php" title="MD&amp;A">MD&amp;A <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+						</section>
+					</div>
+				</div>";s:5:"mtime";i:1475071972;s:6:"markup";s:3008:"<div class="row">
+					<figure class="col-xs-12" role="banner">
+						<div>
+						<img class="img-responsive" src="images/hero-ir-image.jpg" alt="Hero image">
+						<div class="border_bottom"></div>
+						</div>
+					</figure>
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">Home</a></li>
+						</ol>
+						<section class="two-col clearfix">
+							<h2><em class="red">Investor</em> Relations</h2>
+							<article>
+								<p>The Company strives to grow and enhance its business relationship with its franchisors, joint-venture partners, shareholders, landlords, suppliers, third-party service providers, as well as the various regulators with which it interacts regularly.</p>
+								<p>As such, the Company seeks to not only comply with all guidelines, policies, agreements, bylaws, and laws governing its operations, but also to develop an enriched business association with its various stakeholders through the fostering of mutual trust and respect.</p>
+							</article>
+						</section>
+						<hr>
+						<section id="ir_pages">
+							<article>
+								<h4>Stock Information</h4>
+								<time>Updated 10.10.2016 2:09 PM</time>
+								<section class="row">
+									<div class="col-sm-4">
+										<iframe src="http://www.settrade.com/banner/banner3.jsp" marginwidth="0" marginleft="0" height="210" width="200" scrolling=no frameborder=no></iframe>
+									</div>
+									<div id="stock_info" class="col-sm-8">
+										<dl class="col-xs-6 col-sm-4">
+											<dt>Last Price</dt>
+											<dd class="price">43.60</dd>
+										</dl>
+										<dl class="col-xs-6 col-sm-4">
+											<dt>Change</dt>
+											<dd>+0.06</dd>
+										</dl>
+										<dl class="col-xs-6 col-sm-4">
+											<dt>% Change</dt>
+											<dd>(+1.69%)</dd>
+										</dl>
+										<dl class="col-xs-6 col-sm-4">
+											<dt>Volume</dt>
+											<dd>5,928,600</dd>
+										</dl>
+									</div>
+								</section>
+							</article>
+							<article>
+								<h4><a href="stock-news.php" title="Stock News">Stock News <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="annual-report.php" title="Annual Report">Annual Report <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="financial-statement.php" title="Financial Statement">Financial Statement <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="form-56.php" title="Form 56-1">Form 56-1 <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+							<article>
+								<h4><a href="md-a.php" title="MD&amp;A">MD&amp;A <i class="fa fa-chevron-right pull-right" aria-hidden="true"></i></a></h4>
+							</article>
+						</section>
+					</div>
+				</div>";s:4:"code";N;s:5:"title";s:18:"investor-relations";s:3:"url";s:19:"/investor-relations";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

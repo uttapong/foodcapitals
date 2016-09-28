@@ -1,0 +1,104 @@
+1475075080a:1:{s:8:"md-a.htm";a:9:{s:8:"fileName";s:8:"md-a.htm";s:7:"content";s:2061:"title = "md-a"
+url = "/md-a"
+layout = "default"
+is_hidden = 0
+==
+<div class="row">
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">Home</a></li>
+							<li><a href="investor-relations.php">Investor Relations</a></li>
+						</ol>
+						<section class="clearfix">
+							<h2><span>Management</span> Discussion &amp; Analysis Report</h2>
+							<h5>Download or view MD&amp;A</h5>
+							<div class="selected-container">
+								<label>Select Year</label>
+								<select class="selectpicker">
+								  <option>2016</option>
+								  <option>2015</option>
+								  <option>2014</option>
+								</select>
+							</div>
+							<div>
+								<table class="table table-condensed table-investor">
+									<tbody>
+										<tr>
+											<td colspan="2"><a href="#">1st Quarter</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+										<tr>
+											<td colspan="2"><a href="#">2st Quarter</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+										<tr>
+											<td colspan="2"><a href="#">3st Quarter</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+										<tr>
+											<td colspan="2"><a href="#">Full Year</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</section>
+					</div>
+				</div>";s:5:"mtime";i:1475073398;s:6:"markup";s:1996:"<div class="row">
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">Home</a></li>
+							<li><a href="investor-relations.php">Investor Relations</a></li>
+						</ol>
+						<section class="clearfix">
+							<h2><span>Management</span> Discussion &amp; Analysis Report</h2>
+							<h5>Download or view MD&amp;A</h5>
+							<div class="selected-container">
+								<label>Select Year</label>
+								<select class="selectpicker">
+								  <option>2016</option>
+								  <option>2015</option>
+								  <option>2014</option>
+								</select>
+							</div>
+							<div>
+								<table class="table table-condensed table-investor">
+									<tbody>
+										<tr>
+											<td colspan="2"><a href="#">1st Quarter</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+										<tr>
+											<td colspan="2"><a href="#">2st Quarter</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+										<tr>
+											<td colspan="2"><a href="#">3st Quarter</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+										<tr>
+											<td colspan="2"><a href="#">Full Year</a></td>
+											<td class="hidden"></td>
+											<td><a href="#"><img src="images/view-icon.svg"> View Online</a></td>
+											<td><a href="#"><img src="images/download-icon.svg"> Download</a></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</section>
+					</div>
+				</div>";s:4:"code";N;s:5:"title";s:4:"md-a";s:3:"url";s:5:"/md-a";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

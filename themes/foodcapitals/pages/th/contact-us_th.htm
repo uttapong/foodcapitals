@@ -1,0 +1,156 @@
+title = "contact-us_th"
+url = "/th/contact-us"
+layout = "default"
+is_hidden = 0
+==
+<div class="row">
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">หน้าแรก</a></li>
+						</ol>
+						<section class="row address_info">
+							<h2><em class="red">ติดต่อ</em>เรา</h2>
+							<address class="col-md-6">
+								<h5>สำนักงานใหญ่</h5>
+								<span>บริษัท ฟู้ด แคปปิตอล จำกัด (มหาชน)<br>
+								เลขที่ 725 อาคารเมโทรโพลิศ ชั้น 14<br>
+								ถนนสุขุมวิท แขวงคลองตันเหนือ<br>
+								เขตวัฒนา กรุงเทพฯ 10110</span>
+								<label>โทรศัพท์:</label> <a href="tel:022599522">+66.2259.9522</a><br>
+								<label>โทรสาร:</label> <a href="tel:022599590">+66.2259.9522</a>
+							</address>
+							<address class="col-md-6">
+								<h5>แผนกนักลงทุนสัมพันธ์</h5>
+								<label>โทรศัพท์:</label> <a href="tel:022599522">+66.2259.9522</a><br>
+								<label>โทรสาร:</label> <a href="tel:022599590">+66.2259.9590</a><br>
+								<label>อีเมล:</label> <a href="mailto:ir@foodcapitals.com">ir@foodcapitals.com</a>
+							</address>
+						</section>
+						<hr>
+						<section class="row">
+							<form id="contact_forminfo" action="" method="post" enctype="multipart/form-data">
+								<div class="form-group question-container">
+									<div class="col-xs-12">
+										<h4 class="marginbottom20">ส่งคำถามถึงเรา</h4>
+										<select class="selectpicker" name="question" class="form-control" title="โปรดเลือกชนิดคำถาม*">
+											<option>คำถามทั่วไป/ข้อเสนอแนะ</option>
+											<option>นักลงทุนสัมพันธ์</option>
+										</select>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-xs-12">
+								    <label for="">ชื่อ-นามสกุล*</label>
+								    <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="">
+									</div>
+							  </div>
+							  <div class="form-group">
+								  <div class="col-xs-12 col-sm-6">
+								    <label for="">อีเมล*</label>
+								    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="">
+								  </div>
+							  </div>
+							  <div class="form-group">
+								  <div class="col-xs-12 col-sm-6">
+								    <label for="">เบอร์โทรศัพท์</label>
+								    <input type="text" class="form-control" name="phonenumber" autocomplete="off" id="phonenumber" placeholder="">
+								  </div>
+							  </div>
+							  <div class="form-group">
+								  <div class="col-xs-12">
+								    <label for="">หัวข้อ*</label>
+								    <input type="text" class="form-control" name="subject" id="subject" placeholder="">
+								  </div>
+							  </div>
+							  <div class="form-group">
+								  <div class="col-xs-12">
+								    <label for="">คำถาม*</label>
+								    <textarea class="form-control" rows="3" name="Message" autocomplete="off" id="Message"></textarea>
+								  </div>
+							  </div>
+							  <div class="form-group">
+								  <div class="col-xs-12">
+							  		<input type="submit" class="btn pull-right" value="ส่ง">
+							  		<a href="#modal" class="btn">Test Light message</a>
+								  </div>
+							  </div>
+							</form>
+							<div class="remodal" data-remodal-id="modal" role="dialog" aria-labelledby="modal1Title" aria-describedby="modal1Desc">
+							  <div>
+							    <h2 id="modal1Title">ขอบคุณสำหรับข้อความ</h2>
+							    <p id="modal1Desc">
+							      ข้อความถูกส่งเรียบร้อยแล้ว ขอบคุณสำหรับการติดต่อและแสดงความคิดเห็นถึงเรา ทางเราจะพยายามติดต่อกลับหาคุณโดยเร็วที่สุด
+							    </p>
+							  </div>
+							  <br>
+							  <button data-remodal-action="confirm" class="btn">กลับสู่เว็บไซต์</button>
+							</div>
+							<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.2/js/bootstrapValidator.min.js"></script>
+							<script type="text/javascript">
+							  window.REMODAL_GLOBALS = {
+							     NAMESPACE: 'remodal',
+							     DEFAULTS: {
+							       hashTracking: true,
+							       closeOnConfirm: true,
+							       closeOnCancel: true,
+							       closeOnEscape: true,
+							       closeOnOutsideClick: true,
+							       modifier: ''
+							     }
+							   };
+							</script>
+							<script type="text/javascript">
+							$('#contact_forminfo').bootstrapValidator({
+						        framework: 'bootstrap',
+						        fields: {
+						            Name: {
+						                validators: {
+						                    notEmpty: {
+						                        message: 'กรุณากรอกชื่อของคุณ'
+						                    }
+						                }
+						            },
+						            email: {
+						                validators: {
+						                    notEmpty: {
+						                        message: 'อีเมลไม่ถูกต้อง'
+						                    },
+						                    emailAddress: {
+						                        message: 'The email address is not valid'
+						                    }
+						                }
+						            },
+						            phonenumber: {
+						                validators: {
+						                    notEmpty: {
+						                        message: 'หมายเลขโทรศัพท์ที่ถูกต้อง'
+						                    }
+						                }
+						            },
+						            subject: {
+						                validators: {
+						                    notEmpty: {
+						                        message: 'กรุณากรอกหัวข้อ'
+						                    }
+						                }
+						            },
+						            Message: {
+						                validators: {
+						                    notEmpty: {
+						                        message: 'กรุณากรอกรายละเอียดคำถาม'
+						                    }
+						                }
+						            }
+						        }
+						    });
+						</script>
+						</section>
+						<hr>
+						<section class="row">
+							<div class="col-xs-12 googlemap-contact">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2965.0824050173574!2d-93.63905729999999!3d41.998507000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sWebFilings%2C+University+Boulevard%2C+Ames%2C+IA!5e0!3m2!1sen!2sus!4v1390839289319" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+								<h5 style="margin:0 0 10px 0;font-family: 'kanitlight';font-size:18px; ">เปิดแผนที่ใน:</h5><p style="font-size:18px;"><a href="#" style="color:#808184;margin-right:10px;">LINE</a> <a href="#" style="color:#808184;">Google Map</a></p>
+							</div>
+						</section>
+					</div>
+				</div>

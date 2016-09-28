@@ -1,0 +1,202 @@
+1475075080a:1:{s:19:"magnolia-bakery.htm";a:9:{s:8:"fileName";s:19:"magnolia-bakery.htm";s:7:"content";s:5367:"title = "magnolia-bakery"
+url = "/magnolia-bakery"
+layout = "default"
+is_hidden = 0
+==
+<div class="row">
+					<div class="col-xs-12 col-md-7 col-md-push-5" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">Home</a></li>
+							<li><a href="our-brands.php">Our Brands</a></li>
+							<li class="active"><a href="our-brands-lifestyle-restaurants.php">Lifestyle Restaurants</a></li>
+						</ol>
+						<section class="row txt-editor">
+							<h2>Magnolia Bakery</h2>
+							<article class="col-xs-12">
+								<p>Magnolia Bakery first opened its doors in 1996 on a corner of NYC's Greenwich Village. In 2007, Steven Abrams and his family took over the iconic Bakery and the brand became famous for its freshly baked desserts and charming vintage décor. Magnolia Bakery offers an array of freshly made, hand crafted desserts and Magnolia's signature offerings are Magnolia cupcakes which were featured in several TV shows and films.</p>
+								<section class="clearfix">
+							    <div id="chain-res-carousel" class="owl-carousel">
+								    <div>
+								    	<img class="img-responsive" src="images/magnolia-bakery-restaurant-large.jpg" alt="">
+								    </div>
+								    <div>
+									    <img class="img-responsive" src="images/kyochon-restaurant.jpg" alt="">
+								    </div>
+								  </div>
+								  <div class="num chain"></div>
+								</section>
+							</article>
+						</section>
+						<hr>
+						<section class="clearfix">
+							<h4 class="marginbottom20">News &amp; Promotions</h4>
+					    <div id="promo-news-carousel" class="owl-carousel">
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image9.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image10.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image9.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image10.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image9.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image10.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						  </div>
+						</section>
+						<hr>		
+					</div>
+					<div class="col-sm 12 col-md-5 col-md-pull-7" role="complementary">
+						<aside class="">
+							<h3>Location &amp; Contact</h3>
+							<div id="google-map" class="col-sm-6 col-md-12">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2965.0824050173574!2d-93.63905729999999!3d41.998507000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sWebFilings%2C+University+Boulevard%2C+Ames%2C+IA!5e0!3m2!1sen!2sus!4v1390839289319" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+							</div>
+							<address class="col-sm-6 col-md-12">
+								<h5>View Map in:</h5>
+									<p><a href="#">LINE</a> <a href="#">Google Map</a></p>
+								<h5>Open Time:</h5>
+									<time>7:30PM - 2:00AM</time>
+								<h5>Address</h5>
+									<p>320 Silom Road, Bangrak Bangkok 10500</p>
+								<h5>Website:</h5>
+								<p><a href="www.magnoliabakery.com" target="_blank">www.magnoliabakery.com</a></p>
+							</address>
+						</aside>
+						<hr class="visible-sm visible-xs">
+					</div>
+					<div class="col-xs-12 col-md-7 col-md-push-5" role="contentinfo">
+						<section class="row">
+							<?php include("includes/contact_forminfo.php"); ?>
+						</section>
+					</div>
+				</div>";s:5:"mtime";i:1475072002;s:6:"markup";s:5280:"<div class="row">
+					<div class="col-xs-12 col-md-7 col-md-push-5" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">Home</a></li>
+							<li><a href="our-brands.php">Our Brands</a></li>
+							<li class="active"><a href="our-brands-lifestyle-restaurants.php">Lifestyle Restaurants</a></li>
+						</ol>
+						<section class="row txt-editor">
+							<h2>Magnolia Bakery</h2>
+							<article class="col-xs-12">
+								<p>Magnolia Bakery first opened its doors in 1996 on a corner of NYC's Greenwich Village. In 2007, Steven Abrams and his family took over the iconic Bakery and the brand became famous for its freshly baked desserts and charming vintage décor. Magnolia Bakery offers an array of freshly made, hand crafted desserts and Magnolia's signature offerings are Magnolia cupcakes which were featured in several TV shows and films.</p>
+								<section class="clearfix">
+							    <div id="chain-res-carousel" class="owl-carousel">
+								    <div>
+								    	<img class="img-responsive" src="images/magnolia-bakery-restaurant-large.jpg" alt="">
+								    </div>
+								    <div>
+									    <img class="img-responsive" src="images/kyochon-restaurant.jpg" alt="">
+								    </div>
+								  </div>
+								  <div class="num chain"></div>
+								</section>
+							</article>
+						</section>
+						<hr>
+						<section class="clearfix">
+							<h4 class="marginbottom20">News &amp; Promotions</h4>
+					    <div id="promo-news-carousel" class="owl-carousel">
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image9.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image10.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image9.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image10.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image9.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						    <div class="item">
+							    <a href="#" title="20% Discount for ordering food and drinks">
+								    <img src="images/promo-image10.jpg" alt="">
+								    <p><strong>20% Discount for ordering food and drinks</strong></p>
+								    <p>Styled after a munitions factory, themed around celebrated pin-ups and legendary weapons of war, Bangkok Betty</p>
+							    </a>
+						    </div>
+						  </div>
+						</section>
+						<hr>		
+					</div>
+					<div class="col-sm 12 col-md-5 col-md-pull-7" role="complementary">
+						<aside class="">
+							<h3>Location &amp; Contact</h3>
+							<div id="google-map" class="col-sm-6 col-md-12">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2965.0824050173574!2d-93.63905729999999!3d41.998507000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sWebFilings%2C+University+Boulevard%2C+Ames%2C+IA!5e0!3m2!1sen!2sus!4v1390839289319" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+							</div>
+							<address class="col-sm-6 col-md-12">
+								<h5>View Map in:</h5>
+									<p><a href="#">LINE</a> <a href="#">Google Map</a></p>
+								<h5>Open Time:</h5>
+									<time>7:30PM - 2:00AM</time>
+								<h5>Address</h5>
+									<p>320 Silom Road, Bangrak Bangkok 10500</p>
+								<h5>Website:</h5>
+								<p><a href="www.magnoliabakery.com" target="_blank">www.magnoliabakery.com</a></p>
+							</address>
+						</aside>
+						<hr class="visible-sm visible-xs">
+					</div>
+					<div class="col-xs-12 col-md-7 col-md-push-5" role="contentinfo">
+						<section class="row">
+							<?php include("includes/contact_forminfo.php"); ?>
+						</section>
+					</div>
+				</div>";s:4:"code";N;s:5:"title";s:15:"magnolia-bakery";s:3:"url";s:16:"/magnolia-bakery";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

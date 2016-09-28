@@ -1,0 +1,93 @@
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.2/js/bootstrapValidator.min.js"></script>
+<form id="contact_forminfo" action="" method="post" enctype="multipart/form-data">
+	<div class="form-group question-container">
+		<div class="col-xs-12">
+			<h4 class="marginbottom20">Leave Us a Questions</h4>
+			<select class="selectpicker" name="colors" class="form-control" title="Choose Question">
+        <option value="">General Information/Comment</option>
+        <option value="">Investor Relations</option>
+	    </select>
+		</div>
+	</div>
+	<div class="form-group">
+		<div class="col-xs-12">
+	    <label for="">Name &amp; Surname*</label>
+	    <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="">
+		</div>
+  </div>
+  <div class="form-group">
+	  <div class="col-xs-12">
+	    <label for="">Email*</label>
+	    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="">
+	  </div>
+  </div>
+  <div class="form-group">
+	  <div class="col-xs-12">
+	    <label for="">Phone</label>
+	    <input type="text" class="form-control" name="phonenumber" autocomplete="off" id="phonenumber" placeholder="">
+	  </div>
+  </div>
+  <div class="form-group">
+	  <div class="col-xs-12">
+	    <label for="">Subject*</label>
+	    <input type="text" class="form-control" name="subject" id="subject" placeholder="">
+	  </div>
+  </div>
+  <div class="form-group">
+	  <div class="col-xs-12">
+	    <label for="">Message*</label>
+	    <textarea class="form-control" rows="3" name="Message" autocomplete="off" id="Message"></textarea>
+	  </div>
+  </div>
+  <div class="form-group">
+	  <div class="col-xs-12">
+  		<input type="submit" class="btn pull-right" value="Send">
+	  </div>
+  </div>
+</form>
+<script type="text/javascript">
+	$('#contact_forminfo').bootstrapValidator({
+        framework: 'bootstrap',
+        fields: {
+            Name: {
+                validators: {
+                    notEmpty: {
+                        message: 'The Name is required and cannot be empty'
+                    }
+                }
+            },
+            email: {
+                validators: {
+                    notEmpty: {
+                        message: 'Your email is required'
+                    },
+                    emailAddress: {
+                        message: 'The email address is not valid'
+                    }
+                }
+            },
+            phonenumber: {
+                validators: {
+                    notEmpty: {
+                        message: 'The value is not valid phone number'
+                    }
+                }
+            },
+            subject: {
+                validators: {
+                    notEmpty: {
+                        message: 'Subject is required'
+                    }
+                }
+            },
+            Message: {
+                validators: {
+                    notEmpty: {
+                        message: 'Your message is required'
+                    }
+                }
+            }
+        }
+    });
+</script>
+

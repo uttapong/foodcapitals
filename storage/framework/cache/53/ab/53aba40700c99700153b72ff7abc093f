@@ -1,0 +1,76 @@
+1475075085a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:941:"==
+<!doctype html>
+<html class="no-js" lang="en">
+
+		{% partial 'head_global' %}
+	
+	<body>
+		<div id="wrapper">
+		<header role="rowheader">
+			<h1 id="logo" title="Foodcapitals.com"><a href="homepage.php"><span>Foodcapitals.com</span></a></h1>
+			<div class="header-mobile">
+				<div class="header-mobile-toggle">
+					<a class="header-mobile-toggle_link">
+						<i class="header-mobile-toggle_icon hamburger-icon">
+							<span></span>
+							<span></span>
+							<span></span>
+							<span></span>
+							<span></span>
+							<span></span>
+						</i>
+						<span class="visually-hidden">header.menu</span>
+					</a>
+				</div>
+			</div>
+			{% partial 'navigation_irpage' %}
+		</header>
+		<main id="content">
+			<div class="container">
+				{% page %}
+				</div>
+		</main>
+		<footer>
+			{% partial 'footer' %}
+		</footer>
+		</div>
+		<script src="{{ 'assets/js/main.js'|theme}}"></script>
+	</body>
+</html>";s:5:"mtime";i:1475073432;s:6:"markup";s:938:"<!doctype html>
+<html class="no-js" lang="en">
+
+		{% partial 'head_global' %}
+	
+	<body>
+		<div id="wrapper">
+		<header role="rowheader">
+			<h1 id="logo" title="Foodcapitals.com"><a href="homepage.php"><span>Foodcapitals.com</span></a></h1>
+			<div class="header-mobile">
+				<div class="header-mobile-toggle">
+					<a class="header-mobile-toggle_link">
+						<i class="header-mobile-toggle_icon hamburger-icon">
+							<span></span>
+							<span></span>
+							<span></span>
+							<span></span>
+							<span></span>
+							<span></span>
+						</i>
+						<span class="visually-hidden">header.menu</span>
+					</a>
+				</div>
+			</div>
+			{% partial 'navigation_irpage' %}
+		</header>
+		<main id="content">
+			<div class="container">
+				{% page %}
+				</div>
+		</main>
+		<footer>
+			{% partial 'footer' %}
+		</footer>
+		</div>
+		<script src="{{ 'assets/js/main.js'|theme}}"></script>
+	</body>
+</html>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

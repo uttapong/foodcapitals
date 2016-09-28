@@ -1,0 +1,71 @@
+1475075080a:1:{s:23:"th/annual-report_th.htm";a:5:{s:8:"fileName";s:23:"th/annual-report_th.htm";s:7:"content";s:1675:"<div class="row">
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">หน้าหลัก</a></li>
+							<li><a href="investor-relations.php">นักลงทุนสัมพันธ์</a></li>
+						</ol>
+						<section class="clearfix">
+							<h2>รายงานประจำปี</h2>
+							<h5>ดาวน์โหลดหรือดูรายงานประจำปี</h5>
+							<div>
+								<table class="table table-condensed table-investor">
+									<tbody>
+										<tr>
+											<td><a href="#">รายงานประจำปี 2015</a></td>
+											<td>12/12/12</td>
+											<td><a href="#"><img src="../images/view-icon.svg"> ดูออนไลน์</a></td>
+											<td><a href="#"><img src="../images/download-icon.svg"> ดาวน์โหลด</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">รายงานประจำปี 2015</a></td>
+											<td>12/12/12</td>
+											<td><a href="#"><img src="../images/view-icon.svg"> ดูออนไลน์</a></td>
+											<td><a href="#"><img src="../images/download-icon.svg"> ดาวน์โหลด</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">รายงานประจำปี 2015</a></td>
+											<td>12/12/12</td>
+											<td><a href="#"><img src="../images/view-icon.svg"> ดูออนไลน์</a></td>
+											<td><a href="#"><img src="../images/download-icon.svg"> ดาวน์โหลด</a></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</section>
+					</div>
+				</div>";s:5:"mtime";i:1475070554;s:6:"markup";s:1675:"<div class="row">
+					<div class="col-xs-12" role="main">
+						<ol class="breadcrumb">
+							<li><a href="homepage.php">หน้าหลัก</a></li>
+							<li><a href="investor-relations.php">นักลงทุนสัมพันธ์</a></li>
+						</ol>
+						<section class="clearfix">
+							<h2>รายงานประจำปี</h2>
+							<h5>ดาวน์โหลดหรือดูรายงานประจำปี</h5>
+							<div>
+								<table class="table table-condensed table-investor">
+									<tbody>
+										<tr>
+											<td><a href="#">รายงานประจำปี 2015</a></td>
+											<td>12/12/12</td>
+											<td><a href="#"><img src="../images/view-icon.svg"> ดูออนไลน์</a></td>
+											<td><a href="#"><img src="../images/download-icon.svg"> ดาวน์โหลด</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">รายงานประจำปี 2015</a></td>
+											<td>12/12/12</td>
+											<td><a href="#"><img src="../images/view-icon.svg"> ดูออนไลน์</a></td>
+											<td><a href="#"><img src="../images/download-icon.svg"> ดาวน์โหลด</a></td>
+										</tr>
+										<tr>
+											<td><a href="#">รายงานประจำปี 2015</a></td>
+											<td>12/12/12</td>
+											<td><a href="#"><img src="../images/view-icon.svg"> ดูออนไลน์</a></td>
+											<td><a href="#"><img src="../images/download-icon.svg"> ดาวน์โหลด</a></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+						</section>
+					</div>
+				</div>";s:4:"code";N;}}
